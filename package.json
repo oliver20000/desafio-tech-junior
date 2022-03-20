@@ -1,0 +1,23 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/oliver20000/desafio-tech-junior",
+  "author": "Giliel Vitor Oliveira Feitosa",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/server.js",
+    "build": "desafio-tech-junior ./",
+    "start:index": "npm run src/index.js",
+    "start:server": "npm run ./src/server.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.1"
+  },
+  "startDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
