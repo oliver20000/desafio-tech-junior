@@ -1,7 +1,6 @@
 # desafio-tech-junior
 Esta é a minha resolução para o desafio tech júnior da LinkApi.
 
-Esta é a minha solução para o desafio tech junior da LinkApi.
 
 OBS: Gostaria de informar que a rota da API para acessar os contatos(contacts) não está funcionando.
 
